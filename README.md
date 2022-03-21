@@ -1,2 +1,5 @@
 # cartaRestaurante
-Ejercicio Carta Restaurante - Añadiendo productos 
+Ejercicio Carta Restaurante - Angular CLI
+
+#Deploy Site
+cartarestaurante-irene.netlify.app
