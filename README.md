@@ -3,4 +3,4 @@ Ejercicio Carta Restaurante - Angular CLI
 
 #Deploy Site
 
-cartarestaurante-irene.netlify.app
+https://cartarestaurante-irene.netlify.app/carta
